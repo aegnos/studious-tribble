@@ -1,2 +1,2 @@
 # studious-tribble
-just another repository
+well, there's really nothing to put in the readme right now
